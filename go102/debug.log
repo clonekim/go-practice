@@ -1,0 +1,2 @@
+[cms-go]	INFO	2017/07/21 10:19:00 route_attachment.go:68: map[Content-Disposition:[form-data; name="upload"; filename="m07.jpg"] Content-Type:[image/jpeg]]
+[cms-go]	INFO	2017/07/21 10:19:47 route_attachment.go:68: image/jpeg

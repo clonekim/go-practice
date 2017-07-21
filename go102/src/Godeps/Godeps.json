@@ -1,0 +1,22 @@
+{
+	"ImportPath": ".",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.3-28-g3955978",
+			"Rev": "3955978caca48c1658a4bb7a9c6a0f084e326af3"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.4.0-13-gac112f7",
+			"Rev": "ac112f7d75a0714af1bd86ab17749b31f7809640"
+		},
+		{
+			"ImportPath": "github.com/urfave/negroni",
+			"Comment": "v0.2.0-123-gb52430c",
+			"Rev": "b52430c192a156df9ce64f249ccb551f0ff3467f"
+		}
+	]
+}
